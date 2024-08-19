@@ -175,7 +175,7 @@ discord: 51bitquant#8078
 
 Se você tiver alguma dúvida, sinta-se à vontade para entrar em contato comigo no discord. 
 Se você não tem uma conta binance, estou feliz que você pode usar o seguinte link para registrar a conta:
-[LINK de referência da Binance](https://accounts.binance.com/zh-CN/register?ref=ESE80ESH), e você receberá 20% de desconto na comissão.
+[LINK de referência da Binance](https://accounts.binance.com/zh-CN/register?ref=10212892), e você receberá 20% de desconto na comissão.
 
 ## aviso Legal
 Não garanto que este bot possa lucrar com o mercado, use-o em seu risco. Não coloque seu dinheiro real no mercado antes de ler o códigos. Use por sua conta e risco.
